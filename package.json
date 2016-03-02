@@ -1,6 +1,6 @@
 {
   "name": "abstract-class-harmony",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Abstract classes for javascript",
   "main": "AbstractClass.js",
   "scripts": {
