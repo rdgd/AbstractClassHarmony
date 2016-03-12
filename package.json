@@ -2,7 +2,7 @@
   "name": "abstract-class-harmony",
   "version": "1.2.0",
   "description": "Abstract classes for javascript",
-  "main": "AbstractClass.js",
+  "main": "dev/js/AbstractClass.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
